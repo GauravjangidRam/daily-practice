@@ -53,3 +53,8 @@
 - Completed study session on Laravel queues and jobs 
 - Tested API endpoints with Postman 
 - Fixed a bug in form validation logic 
+ 
+### Midday Progress 
+- Completed study session on Laravel queues and jobs 
+- Tested API endpoints with Postman 
+- Fixed a bug in form validation logic 
